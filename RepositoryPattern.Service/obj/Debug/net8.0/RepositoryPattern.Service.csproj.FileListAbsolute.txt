@@ -1,0 +1,17 @@
+E:\Testing\C#\RepositoryPattern\RepositoryPattern.Service\bin\Debug\net8.0\RepositoryPattern.Service.deps.json
+E:\Testing\C#\RepositoryPattern\RepositoryPattern.Service\bin\Debug\net8.0\RepositoryPattern.Service.dll
+E:\Testing\C#\RepositoryPattern\RepositoryPattern.Service\bin\Debug\net8.0\RepositoryPattern.Service.pdb
+E:\Testing\C#\RepositoryPattern\RepositoryPattern.Service\bin\Debug\net8.0\RepositoryPattern.Core.dll
+E:\Testing\C#\RepositoryPattern\RepositoryPattern.Service\bin\Debug\net8.0\RepositoryPattern.Infrastructure.dll
+E:\Testing\C#\RepositoryPattern\RepositoryPattern.Service\bin\Debug\net8.0\RepositoryPattern.Infrastructure.pdb
+E:\Testing\C#\RepositoryPattern\RepositoryPattern.Service\bin\Debug\net8.0\RepositoryPattern.Core.pdb
+E:\Testing\C#\RepositoryPattern\RepositoryPattern.Service\obj\Debug\net8.0\RepositoryPattern.Service.csproj.AssemblyReference.cache
+E:\Testing\C#\RepositoryPattern\RepositoryPattern.Service\obj\Debug\net8.0\RepositoryPattern.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\Testing\C#\RepositoryPattern\RepositoryPattern.Service\obj\Debug\net8.0\RepositoryPattern.Service.AssemblyInfoInputs.cache
+E:\Testing\C#\RepositoryPattern\RepositoryPattern.Service\obj\Debug\net8.0\RepositoryPattern.Service.AssemblyInfo.cs
+E:\Testing\C#\RepositoryPattern\RepositoryPattern.Service\obj\Debug\net8.0\RepositoryPattern.Service.csproj.CoreCompileInputs.cache
+E:\Testing\C#\RepositoryPattern\RepositoryPattern.Service\obj\Debug\net8.0\RepositoryPattern.Service.csproj.CopyComplete
+E:\Testing\C#\RepositoryPattern\RepositoryPattern.Service\obj\Debug\net8.0\RepositoryPattern.Service.dll
+E:\Testing\C#\RepositoryPattern\RepositoryPattern.Service\obj\Debug\net8.0\refint\RepositoryPattern.Service.dll
+E:\Testing\C#\RepositoryPattern\RepositoryPattern.Service\obj\Debug\net8.0\RepositoryPattern.Service.pdb
+E:\Testing\C#\RepositoryPattern\RepositoryPattern.Service\obj\Debug\net8.0\ref\RepositoryPattern.Service.dll
